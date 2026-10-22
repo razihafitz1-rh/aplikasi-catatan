@@ -266,7 +266,7 @@ function Sidebar({ currentView, setCurrentView }) {
             Razi Hafitz
           </span>
           <span className="mt-1 inline-flex rounded-md bg-orange-500/10 px-2 py-0.5 text-[10px] font-semibold text-orange-300">
-            Pengguna Pro
+            Proud · he/him
           </span>
         </span>
       </button>
@@ -713,7 +713,7 @@ function ProfileView({ notes }) {
           </h2>
 
           <span className="mt-2 rounded-md bg-orange-500/10 px-3 py-1 text-xs font-semibold text-orange-300">
-            Pengguna Pro
+            Proud · he/him
           </span>
 
           <div className="mt-8 grid w-full grid-cols-2 divide-x divide-[#303746] rounded-lg border border-[#303746] bg-[#11151c] p-5">
