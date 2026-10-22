@@ -151,7 +151,7 @@ function Avatar({ size = "h-10 w-10" }) {
     >
       {!imageError ? (
         <img
-          src="/hoshinokun.jpg"
+          src={`${import.meta.env.BASE_URL}hoshinokun.jpg`}
           alt="Avatar Razi Hafitz"
           className="h-full w-full object-cover"
           onError={() => setImageError(true)}
