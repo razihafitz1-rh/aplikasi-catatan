@@ -3,7 +3,7 @@
   "configVersion": 0,
   "workspaces": {
     "": {
-      "name": "react-portofolio",
+      "name": "aplikasi-catatan",
       "dependencies": {
         "lucide-react": "^1.61.0",
         "react": "^19.2.8",
