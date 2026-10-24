@@ -41,7 +41,8 @@ Untuk memulai server pengembangan, gunakan perintah:
 ```bash
 npm run dev
 ```
-Setelah perintah dijalankan, buka browser dan akses URL yang tertera pada terminal (biasanya http://localhost:5173).
+Setelah perintah dijalankan, buka browser dan akses URL yang tertera pada terminal 
+### (biasanya http://localhost:5173).
 
 ## Panduan Penggunaan
 
